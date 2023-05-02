@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+  }
+  
+  div {
+    display: inline-block;
+  }
+  
+  button {
+    height: 40px;
+    width: 100px;
+  }
+  #t3 {
+    font-family: cursive;
+    font-size: 110px;
+  }
